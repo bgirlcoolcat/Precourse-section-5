@@ -1,0 +1,34 @@
+{"quizlist":[
+
+	{
+	"question":"What is Elvis Presley's middle name?",
+	"option1":"Aaron", 
+	"option2":"Albert",
+	"option3":"Arnold"
+	},
+	{
+	"question":"Which famous group was once known as The Quarrymen?",
+	"option1":"The Beatles", 
+	"option2":"The Rolling Stones",
+	"option3":"The Killers"
+	},
+	{
+	"question":"Where does singer 'Ricky Martin' come from?",
+	"option1":"Puerto Rico", 
+	"option2":"Brazil",
+	"option3":"Argentina"
+	},
+	{
+	"question":"What year did The Jam release 'Going Underground'?",
+	"option1":"1980", 
+	"option2":"1979",
+	"option3":"1981"
+	},
+	{
+	"question":"Which UK motorway was Chris Rea's 1989 hit 'The Road To Hell' written about?",
+	"option1":"M25", 
+	"option2":"M6",
+	"option3":"M1"
+	}
+]
+}
